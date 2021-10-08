@@ -1,1 +1,1 @@
-# A quick weather app to check temp/humidty
+# A quick weather app to check temp/humidity
